@@ -1,7 +1,7 @@
 {
     "id": 465002,
     "name": "Kolonieschiff der Kestrel-Klasse",
-    "description": "Erm\u00f6glicht den Bau von Kolonieschiffen der Kestrel-Klasse",
+    "description": "Ermöglicht den Bau von Kolonieschiffen der Kestrel-Klasse",
     "sort_order": 69,
     "points": 44,
     "ship_rump_id": 5502,

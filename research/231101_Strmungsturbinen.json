@@ -1,7 +1,7 @@
 {
     "id": 231101,
-    "name": "Str\u00f6mungsturbinen",
-    "description": "Diese Geb\u00e4ude generieren Energie aus Wasserkraft.",
+    "name": "Strömungsturbinen",
+    "description": "Diese Gebäude generieren Energie aus Wasserkraft.",
     "sort_order": 19,
     "points": 28,
     "ship_rump_id": 0,

@@ -1,7 +1,7 @@
 {
     "id": 412201,
-    "name": "J\u00e4ger der Raider-Klasse",
-    "description": "Erlaubt den Bau von J\u00e4gern der Raider-Klasse",
+    "name": "Jäger der Raider-Klasse",
+    "description": "Erlaubt den Bau von Jägern der Raider-Klasse",
     "sort_order": 127,
     "points": 84,
     "ship_rump_id": 1101,

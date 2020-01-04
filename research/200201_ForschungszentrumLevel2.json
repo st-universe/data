@@ -1,7 +1,7 @@
 {
     "id": 200201,
     "name": "Forschungszentrum (Level 2)",
-    "description": "Dieses Geb\u00e4ude erlaubt die Erforschung h\u00f6herwertiger Technologien.",
+    "description": "Dieses Gebäude erlaubt die Erforschung höherwertiger Technologien.",
     "sort_order": 27,
     "points": 42,
     "ship_rump_id": 0,

@@ -1,7 +1,7 @@
 {
     "id": 211202,
     "name": "Versorgungs-Kuppel",
-    "description": "Erm\u00f6glicht den Bau von geod\u00e4tischen Hydroponikkuppeln",
+    "description": "Ermöglicht den Bau von geodätischen Hydroponikkuppeln",
     "sort_order": 21,
     "points": 28,
     "ship_rump_id": 0,

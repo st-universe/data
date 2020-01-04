@@ -1,7 +1,7 @@
 {
     "id": 300101,
     "name": "Schule",
-    "description": "Eine Schule erh\u00f6ht das Crewlimit.",
+    "description": "Eine Schule erhöht das Crewlimit.",
     "sort_order": 55,
     "points": 22,
     "ship_rump_id": 0,

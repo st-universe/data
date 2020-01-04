@@ -1,7 +1,7 @@
 {
     "id": 442102,
-    "name": "Zerst\u00f6rer der Hawk-Klasse",
-    "description": "Erm\u00f6glicht den Bau des Torpedobombers",
+    "name": "Zerstörer der Hawk-Klasse",
+    "description": "Ermöglicht den Bau des Torpedobombers",
     "sort_order": 106,
     "points": 60,
     "ship_rump_id": 4302,

@@ -1,7 +1,7 @@
 {
     "id": 211102,
     "name": "Haupt-Kuppel",
-    "description": "Die Hauptkuppel erm\u00f6glicht es, Habitatkuppeln zu betreiben.",
+    "description": "Die Hauptkuppel ermöglicht es, Habitatkuppeln zu betreiben.",
     "sort_order": 84,
     "points": 60,
     "ship_rump_id": 0,

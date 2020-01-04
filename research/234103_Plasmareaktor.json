@@ -1,7 +1,7 @@
 {
     "id": 234103,
     "name": "Plasmareaktor",
-    "description": "Erm\u00f6glicht die Energeierzeugung unter Zuhilfenahme von hochenergetischem Plasma",
+    "description": "Ermöglicht die Energeierzeugung unter Zuhilfenahme von hochenergetischem Plasma",
     "sort_order": 83,
     "points": 60,
     "ship_rump_id": 0,

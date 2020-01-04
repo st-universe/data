@@ -1,7 +1,7 @@
 {
     "id": 224103,
     "name": "Replikator-Kern",
-    "description": "Der Replikatorkern ist eine der grundlegenden Technologien f\u00fcr die Replikation von Nahrung.",
+    "description": "Der Replikatorkern ist eine der grundlegenden Technologien für die Replikation von Nahrung.",
     "sort_order": 80,
     "points": 40,
     "ship_rump_id": 0,

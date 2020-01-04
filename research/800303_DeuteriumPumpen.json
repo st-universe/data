@@ -1,7 +1,7 @@
 {
     "id": 800303,
     "name": "Deuterium-Pumpen",
-    "description": "Dieses Geb\u00e4ude erlaubt die F\u00f6rderung von Deuterium, welches ein wichtiger Grundstoff der Industrie ist.",
+    "description": "Dieses Gebäude erlaubt die Förderung von Deuterium, welches ein wichtiger Grundstoff der Industrie ist.",
     "sort_order": 24,
     "points": 28,
     "ship_rump_id": 0,

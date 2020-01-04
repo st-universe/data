@@ -1,7 +1,7 @@
 {
     "id": 200503,
     "name": "Forschungszentrum (Module)",
-    "description": "In diesem Geb\u00e4ude erhalten die Siedler die hochwertigsten Module f\u00fcr den Schiffbau.",
+    "description": "In diesem Gebäude erhalten die Siedler die hochwertigsten Module für den Schiffbau.",
     "sort_order": 98,
     "points": 60,
     "ship_rump_id": 0,

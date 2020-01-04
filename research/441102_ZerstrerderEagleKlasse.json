@@ -1,7 +1,7 @@
 {
     "id": 441102,
-    "name": "Zerst\u00f6rer der Eagle-Klasse",
-    "description": "Erm\u00f6glicht den Bau von mittelschweren Kriegsschiffen der Eagle-Klasse",
+    "name": "Zerstörer der Eagle-Klasse",
+    "description": "Ermöglicht den Bau von mittelschweren Kriegsschiffen der Eagle-Klasse",
     "sort_order": 105,
     "points": 60,
     "ship_rump_id": 4102,

@@ -1,7 +1,7 @@
 {
     "id": 253001,
     "name": "Deuteriumsynthesizer",
-    "description": "Erlaubt die F\u00f6rderung von Deuterium auf Wasser und Eis",
+    "description": "Erlaubt die Förderung von Deuterium auf Wasser und Eis",
     "sort_order": 8,
     "points": 40,
     "ship_rump_id": 0,

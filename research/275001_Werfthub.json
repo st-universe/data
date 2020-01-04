@@ -1,7 +1,7 @@
 {
     "id": 275001,
     "name": "Werfthub",
-    "description": "Dieses Geb\u00e4ude erlaubt den Bau der verschiedenen Werften.",
+    "description": "Dieses Gebäude erlaubt den Bau der verschiedenen Werften.",
     "sort_order": 31,
     "points": 28,
     "ship_rump_id": 0,

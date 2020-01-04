@@ -1,7 +1,7 @@
 {
     "id": 231302,
     "name": "Solarspiegel",
-    "description": "Ein Solarspiegel erlaubt es, Sonnenenergie zu b\u00fcndeln.",
+    "description": "Ein Solarspiegel erlaubt es, Sonnenenergie zu bündeln.",
     "sort_order": 16,
     "points": 28,
     "ship_rump_id": 0,

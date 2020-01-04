@@ -1,7 +1,7 @@
 {
     "id": 200701,
-    "name": "Forschungszentrum (Geb\u00e4ude)",
-    "description": "Fortgeschrittenere Geb\u00e4ude k\u00f6nnen durch Forschungen hier freigeschaltet werden.",
+    "name": "Forschungszentrum (Gebäude)",
+    "description": "Fortgeschrittenere Gebäude können durch Forschungen hier freigeschaltet werden.",
     "sort_order": 96,
     "points": 60,
     "ship_rump_id": 0,

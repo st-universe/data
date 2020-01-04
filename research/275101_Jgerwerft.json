@@ -1,7 +1,7 @@
 {
     "id": 275101,
-    "name": "J\u00e4gerwerft",
-    "description": "Erm\u00f6glicht den Bau von Jagdfliegern",
+    "name": "Jägerwerft",
+    "description": "Ermöglicht den Bau von Jagdfliegern",
     "sort_order": 32,
     "points": 42,
     "ship_rump_id": 0,

@@ -1,7 +1,7 @@
 {
     "id": 280202,
     "name": "Technologiecenter",
-    "description": "Das Technologiecenter wird f\u00fcr die Produktion h\u00f6herwertiger Schiffsbauteile ben\u00f6tigt.",
+    "description": "Das Technologiecenter wird für die Produktion höherwertiger Schiffsbauteile benötigt.",
     "sort_order": 109,
     "points": 60,
     "ship_rump_id": 0,

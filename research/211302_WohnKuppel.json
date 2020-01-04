@@ -1,7 +1,7 @@
 {
     "id": 211302,
     "name": "Wohn-Kuppel",
-    "description": "Erm\u00f6glicht den Bau von geod\u00e4tischen Habitatkuppeln",
+    "description": "Ermöglicht den Bau von geodätischen Habitatkuppeln",
     "sort_order": 22,
     "points": 14,
     "ship_rump_id": 0,

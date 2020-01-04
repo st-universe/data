@@ -1,7 +1,7 @@
 {
     "id": 275301,
     "name": "Eskortschiffwerft",
-    "description": "Erm\u00f6glicht den Bau von Eskortschiffen",
+    "description": "Ermöglicht den Bau von Eskortschiffen",
     "sort_order": 68,
     "points": 66,
     "ship_rump_id": 0,

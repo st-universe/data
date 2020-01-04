@@ -1,7 +1,7 @@
 {
     "id": 255203,
     "name": "Tritanium-Anlage",
-    "description": "Stellt Tritanium her, welches f\u00fcr Schiffspanzerungen ben\u00f6tigt wird.",
+    "description": "Stellt Tritanium her, welches für Schiffspanzerungen benötigt wird.",
     "sort_order": 89,
     "points": 40,
     "ship_rump_id": 0,

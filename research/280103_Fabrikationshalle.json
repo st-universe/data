@@ -1,7 +1,7 @@
 {
     "id": 280103,
     "name": "Fabrikationshalle",
-    "description": "Dieses Geb\u00e4ude ist essenziell f\u00fcr den Bau und Unterhalt der verschiedenen Modulfabriken.",
+    "description": "Dieses Gebäude ist essenziell für den Bau und Unterhalt der verschiedenen Modulfabriken.",
     "sort_order": 42,
     "points": 66,
     "ship_rump_id": 0,

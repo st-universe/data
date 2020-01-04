@@ -1,7 +1,7 @@
 {
     "id": 225402,
     "name": "Wetterkontroll-Uplink",
-    "description": "Mit dieser Technik wird ein Siedler in die Lage versetzt, Nahrung produzierende Geb\u00e4ude aufzuwerten.",
+    "description": "Mit dieser Technik wird ein Siedler in die Lage versetzt, Nahrung produzierende Gebäude aufzuwerten.",
     "sort_order": 50,
     "points": 22,
     "ship_rump_id": 0,

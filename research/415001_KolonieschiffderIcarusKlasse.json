@@ -1,7 +1,7 @@
 {
     "id": 415001,
     "name": "Kolonieschiff der Icarus-Klasse",
-    "description": "Erh\u00f6ht das Kolonielimit zus\u00e4tzlich um einen Mond.",
+    "description": "Erhöht das Kolonielimit zusätzlich um einen Mond.",
     "sort_order": 10,
     "points": 50,
     "ship_rump_id": 1501,

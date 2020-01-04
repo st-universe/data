@@ -1,7 +1,7 @@
 {
     "id": 501100,
     "name": "Quantentorpedo",
-    "description": "Diese Forschung erlaubt die Konstruktion einer Projektilwaffe auf Quantenbasis, die eine h\u00f6here Schadenswirkung hat als die \u00fcblichen Photonentorpedos.",
+    "description": "Diese Forschung erlaubt die Konstruktion einer Projektilwaffe auf Quantenbasis, die eine höhere Schadenswirkung hat als die üblichen Photonentorpedos.",
     "sort_order": 113,
     "points": 60,
     "ship_rump_id": 0,

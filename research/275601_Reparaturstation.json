@@ -1,7 +1,7 @@
 {
     "id": 275601,
     "name": "Reparaturstation",
-    "description": "Mit diesem Geb\u00e4ude k\u00f6nnen besch\u00e4digte Schiffe repariert werden.",
+    "description": "Mit diesem Gebäude können beschädigte Schiffe repariert werden.",
     "sort_order": 140,
     "points": 84,
     "ship_rump_id": 0,

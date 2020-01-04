@@ -1,7 +1,7 @@
 {
     "id": 224203,
     "name": "Replikator-Biofilter",
-    "description": "Ein Biofilter wird f\u00fcr die sichere Nahrungsreplikation ben\u00f6tigt.",
+    "description": "Ein Biofilter wird für die sichere Nahrungsreplikation benötigt.",
     "sort_order": 81,
     "points": 20,
     "ship_rump_id": 0,

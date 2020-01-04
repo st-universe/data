@@ -1,7 +1,7 @@
 {
     "id": 300502,
     "name": "Holo-Kern",
-    "description": "Ein Holokern wird ben\u00f6tigt, um Holokomplexe und Holodecks mit Programmen zu versorgen.",
+    "description": "Ein Holokern wird benötigt, um Holokomplexe und Holodecks mit Programmen zu versorgen.",
     "sort_order": 85,
     "points": 40,
     "ship_rump_id": 0,

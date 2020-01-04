@@ -1,7 +1,7 @@
 {
     "id": 281303,
     "name": "Modulkomplex (Offensiv)",
-    "description": "Dieses Geb\u00e4ude erm\u00f6glicht die Fertigung von Waffensystemen.",
+    "description": "Dieses Gebäude ermöglicht die Fertigung von Waffensystemen.",
     "sort_order": 110,
     "points": 20,
     "ship_rump_id": 0,

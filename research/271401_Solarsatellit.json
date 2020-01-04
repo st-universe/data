@@ -1,7 +1,7 @@
 {
     "id": 271401,
     "name": "Solarsatellit",
-    "description": "Erm\u00f6glicht die Energiegewinnung mit Solarkraft auf Orbitfeldern",
+    "description": "Ermöglicht die Energiegewinnung mit Solarkraft auf Orbitfeldern",
     "sort_order": 20,
     "points": 14,
     "ship_rump_id": 0,

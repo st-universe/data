@@ -1,7 +1,7 @@
 {
     "id": 255103,
     "name": "Tritanium-Schmelze",
-    "description": "In diesem Geb\u00e4ude wird Tritaniumerz eingeschmolzen, um weiterverarbeitet werden zu k\u00f6nnen.",
+    "description": "In diesem Gebäude wird Tritaniumerz eingeschmolzen, um weiterverarbeitet werden zu können.",
     "sort_order": 88,
     "points": 60,
     "ship_rump_id": 0,
