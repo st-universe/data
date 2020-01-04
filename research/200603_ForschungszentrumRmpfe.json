@@ -8,5 +8,26 @@
     "database_entry_ids": [],
     "commodity_id": 1703,
     "raise_planetlimit": 0,
-    "raise_moonlimit": 0
+    "raise_moonlimit": 0,
+    "dependencies": {
+        "requires": [
+            []
+        ],
+        "requires_some": [
+            [
+                452203,
+                451203,
+                441203,
+                442203,
+                411203,
+                412203,
+                421203,
+                422203,
+                431203
+            ]
+        ],
+        "excludes": [
+            []
+        ]
+    }
 }
