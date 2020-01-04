@@ -1,0 +1,12 @@
+{
+    "id": 441103,
+    "name": "Zerst\u00f6rer der K't'inga-Klasse",
+    "description": "Erlaubt den Bau mittelschwerer Kriegsschiffe der K't'inga-Klasse",
+    "sort_order": 105,
+    "points": 60,
+    "ship_rump_id": 4203,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

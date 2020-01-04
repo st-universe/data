@@ -1,0 +1,12 @@
+{
+    "id": 465003,
+    "name": "Kolonieschiff der Row-Klasse",
+    "description": "Beschreibung todo",
+    "sort_order": 69,
+    "points": 44,
+    "ship_rump_id": 6503,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

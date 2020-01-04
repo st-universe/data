@@ -1,0 +1,12 @@
+{
+    "id": 275501,
+    "name": "Kreuzerwerft",
+    "description": "Erm\u00f6glicht den Bau von schweren Kriegsschiffen",
+    "sort_order": 101,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

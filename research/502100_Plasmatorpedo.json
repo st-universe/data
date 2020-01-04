@@ -1,0 +1,12 @@
+{
+    "id": 502100,
+    "name": "Plasmatorpedo",
+    "description": "Dieses Forschung elaubt die Konstruktion einer Projektilwaffe auf Plasmabasis, die eine h\u00f6here Schadenswirkung hat als die \u00fcblichen Photonentorpedos.",
+    "sort_order": 115,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

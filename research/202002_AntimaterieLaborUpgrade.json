@@ -1,0 +1,12 @@
+{
+    "id": 202002,
+    "name": "Antimaterie-Labor-Upgrade",
+    "description": "Diese Technik erlaubt es, Forschungszentren aufzuwerten.",
+    "sort_order": 95,
+    "points": 40,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

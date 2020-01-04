@@ -1,0 +1,12 @@
+{
+    "id": 465001,
+    "name": "Kolonieschiff der Aerie-Klasse",
+    "description": "Erm\u00f6glicht den Bau von Kolonieschiffen der Aerie-Klasse",
+    "sort_order": 69,
+    "points": 44,
+    "ship_rump_id": 6501,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

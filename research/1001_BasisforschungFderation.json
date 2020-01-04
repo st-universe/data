@@ -1,0 +1,12 @@
+{
+    "id": 1001,
+    "name": "Basisforschung F\u00f6deration",
+    "description": "Grundforschung der F\u00f6deration um weitere Forschungen zu beginnen",
+    "sort_order": 1,
+    "points": 0,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 1,
+    "raise_moonlimit": 0
+}

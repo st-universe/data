@@ -1,0 +1,12 @@
+{
+    "id": 452202,
+    "name": "Kreuzer der Raptor-Klasse",
+    "description": "Erm\u00f6glicht den Bau von schweren Kriegsschiffen der Raptor-Klasse",
+    "sort_order": 118,
+    "points": 60,
+    "ship_rump_id": 5302,
+    "database_entry_ids": [],
+    "commodity_id": 1711,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

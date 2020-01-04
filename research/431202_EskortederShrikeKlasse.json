@@ -1,0 +1,12 @@
+{
+    "id": 431202,
+    "name": "Eskorte der Shrike-Klasse",
+    "description": "Erm\u00f6glicht den Bau von Eskortschiffen der Shrike-Klasse",
+    "sort_order": 124,
+    "points": 84,
+    "ship_rump_id": 3102,
+    "database_entry_ids": [],
+    "commodity_id": 1711,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

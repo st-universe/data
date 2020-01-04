@@ -1,0 +1,12 @@
+{
+    "id": 200303,
+    "name": "Forschungszentrum (Level 3)",
+    "description": "Durch dieses Geb\u00e4ude wird der Siedler in die Lage versetzt, wirkungsvolle Technologien aus allen Bereichen zu erforschen.",
+    "sort_order": 66,
+    "points": 66,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

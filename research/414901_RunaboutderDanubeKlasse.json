@@ -1,0 +1,12 @@
+{
+    "id": 414901,
+    "name": "Runabout der Danube-Klasse",
+    "description": "Erlaubt den Bau von Shuttles der Danube-Klasse",
+    "sort_order": 38,
+    "points": 28,
+    "ship_rump_id": 1401,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

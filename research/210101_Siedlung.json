@@ -1,0 +1,12 @@
+{
+    "id": 210101,
+    "name": "Siedlung",
+    "description": "Diese Forschung erm\u00f6glicht es, mehr Wohnraum bereitzustellen.",
+    "sort_order": 53,
+    "points": 66,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

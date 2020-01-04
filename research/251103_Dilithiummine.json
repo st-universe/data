@@ -1,0 +1,12 @@
+{
+    "id": 251103,
+    "name": "Dilithiummine",
+    "description": "Erm\u00f6glicht den Abbau von Dilithium",
+    "sort_order": 23,
+    "points": 28,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

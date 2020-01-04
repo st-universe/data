@@ -1,0 +1,12 @@
+{
+    "id": 288002,
+    "name": "Torpedofabrik",
+    "description": "Em\u00f6glicht die Herstellung der unterschiedlichen Torpedoarten",
+    "sort_order": 46,
+    "points": 28,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

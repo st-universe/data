@@ -1,0 +1,12 @@
+{
+    "id": 281303,
+    "name": "Modulkomplex (Offensiv)",
+    "description": "Dieses Geb\u00e4ude erm\u00f6glicht die Fertigung von Waffensystemen.",
+    "sort_order": 110,
+    "points": 20,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

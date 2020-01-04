@@ -1,0 +1,12 @@
+{
+    "id": 461103,
+    "name": "Frachter der Tong'duj-Klasse",
+    "description": "Erlaubt den Bau von Frachtern der Tong'duj-Klasse",
+    "sort_order": 39,
+    "points": 28,
+    "ship_rump_id": 6603,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

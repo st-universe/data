@@ -1,0 +1,12 @@
+{
+    "id": 800201,
+    "name": "K\u00e4lteresistente Algen",
+    "description": "Diese Forschung macht es m\u00f6glich, Algenfarmen auch auf Eiswelten zu errichten.",
+    "sort_order": 15,
+    "points": 14,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

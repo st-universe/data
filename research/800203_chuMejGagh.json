@@ -1,0 +1,12 @@
+{
+    "id": 800203,
+    "name": "chu'Mej Gagh",
+    "description": "Mit dieser Forschung k\u00f6nnen Gaghfarmen auch auf Eiswelten (Feldtyp: Eiswasser) errichtet werden.",
+    "sort_order": 15,
+    "points": 14,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

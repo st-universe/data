@@ -1,0 +1,12 @@
+{
+    "id": 235103,
+    "name": "Planetarer Warpkern",
+    "description": "Erm\u00f6glicht den Bau von planetaren Warpkernen zur Energieversorgung",
+    "sort_order": 131,
+    "points": 84,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

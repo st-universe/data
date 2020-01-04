@@ -1,0 +1,12 @@
+{
+    "id": 452101,
+    "name": "Kreuzer der Prometheus-Klasse",
+    "description": "Erlaubt den Bau von schweren Kriegsschiffen der Prometheus-Klasse",
+    "sort_order": 104,
+    "points": 60,
+    "ship_rump_id": 5201,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

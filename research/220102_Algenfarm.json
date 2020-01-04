@@ -1,0 +1,12 @@
+{
+    "id": 220102,
+    "name": "Algenfarm",
+    "description": "Erlaubt den Bau von Algenfarmen auf Wasser",
+    "sort_order": 2,
+    "points": 15,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 2,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

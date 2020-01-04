@@ -1,0 +1,12 @@
+{
+    "id": 466002,
+    "name": "RX-Klasse Frachter",
+    "description": "Frachter der RX-Klasse",
+    "sort_order": 141,
+    "points": 50,
+    "ship_rump_id": 902,
+    "database_entry_ids": [],
+    "commodity_id": 5,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 283303,
+    "name": "Modulkomplex (Hauptsysteme)",
+    "description": "Dieses Geb\u00e4ude erm\u00f6glicht es, Energie- und Computersysteme herzustellen.",
+    "sort_order": 112,
+    "points": 20,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

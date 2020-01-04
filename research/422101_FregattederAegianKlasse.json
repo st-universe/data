@@ -1,0 +1,12 @@
+{
+    "id": 422101,
+    "name": "Fregatte der Aegian-Klasse",
+    "description": "Erlaubt den Bau von leichten Kriegsschiffen der Aegian-Klasse",
+    "sort_order": 35,
+    "points": 42,
+    "ship_rump_id": 2301,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

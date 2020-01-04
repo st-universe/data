@@ -1,0 +1,12 @@
+{
+    "id": 253201,
+    "name": "Plasmakonverter",
+    "description": "Erm\u00f6glicht die Herstellung von Plasma",
+    "sort_order": 58,
+    "points": 44,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

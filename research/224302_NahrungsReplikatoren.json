@@ -1,0 +1,12 @@
+{
+    "id": 224302,
+    "name": "Nahrungs-Replikatoren",
+    "description": "Der Replikator ist ein sehr effizienter Nahrungsproduzent.",
+    "sort_order": 82,
+    "points": 20,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

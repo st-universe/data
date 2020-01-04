@@ -1,0 +1,12 @@
+{
+    "id": 251002,
+    "name": "Iridium-Mine",
+    "description": "Erm\u00f6glicht den Abbau von Iridiumerz",
+    "sort_order": 6,
+    "points": 40,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 4,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

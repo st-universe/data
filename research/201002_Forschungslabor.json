@@ -1,0 +1,12 @@
+{
+    "id": 201002,
+    "name": "Forschungslabor",
+    "description": "Generiert Forschungspunkte",
+    "sort_order": 11,
+    "points": 27,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 21,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

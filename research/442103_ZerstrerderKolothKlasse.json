@@ -1,0 +1,12 @@
+{
+    "id": 442103,
+    "name": "Zerst\u00f6rer der Koloth-Klasse",
+    "description": "Erlaubt den Bau des Torpedobombers",
+    "sort_order": 106,
+    "points": 60,
+    "ship_rump_id": 4303,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

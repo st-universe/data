@@ -1,0 +1,12 @@
+{
+    "id": 202103,
+    "name": "Material-Labor-Upgrade",
+    "description": "Mit dieser Technik k\u00f6nnen Forschungszentren aufgewertet werden, um die hochwertigsten Schiffsbauteile zu erforschen.",
+    "sort_order": 139,
+    "points": 56,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

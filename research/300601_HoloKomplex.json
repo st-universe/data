@@ -1,0 +1,12 @@
+{
+    "id": 300601,
+    "name": "Holo-Komplex",
+    "description": "Der Holokomplex generiert Holodeckprogramme und steigert die Zufriedenheit der Einwohner.",
+    "sort_order": 86,
+    "points": 40,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

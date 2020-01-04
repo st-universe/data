@@ -1,0 +1,12 @@
+{
+    "id": 414003,
+    "name": "Runabout der K'toch-Klasse",
+    "description": "Erlaubt den Bau von Shuttles der K'toch-Klasse",
+    "sort_order": 38,
+    "points": 28,
+    "ship_rump_id": 1403,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 275403,
+    "name": "Zerst\u00f6rerwerft",
+    "description": "Erm\u00f6glicht den Bau von mittelschweren Kriegsschiffen",
+    "sort_order": 100,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 459101,
+    "name": "Kreuzer der Excelsior-Klasse",
+    "description": "Erlaubt den Bau von schweren Kriegsschiffen der Excelsior-Klasse",
+    "sort_order": 102,
+    "points": 60,
+    "ship_rump_id": 5191,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

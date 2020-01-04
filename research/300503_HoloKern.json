@@ -1,0 +1,12 @@
+{
+    "id": 300503,
+    "name": "Holo-Kern",
+    "description": "Ein Holokern wird ben\u00f6tigt, um Holokomplexe und Holodecks mit Programmen zu versorgen.",
+    "sort_order": 85,
+    "points": 40,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

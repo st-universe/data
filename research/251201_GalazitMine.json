@@ -1,0 +1,12 @@
+{
+    "id": 251201,
+    "name": "Galazit-Mine",
+    "description": "Mit diesem Gebaeude kann man Galazit-Erz erschuerfen. Vorkommen gibt es primaer auf Klasse G und sekundaer auf Klasse K Kolonien",
+    "sort_order": 149,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

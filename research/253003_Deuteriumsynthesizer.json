@@ -1,0 +1,12 @@
+{
+    "id": 253003,
+    "name": "Deuteriumsynthesizer",
+    "description": "Erlaubt die F\u00f6rderung von Deuterium auf Wasser und Eis",
+    "sort_order": 8,
+    "points": 40,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 4,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

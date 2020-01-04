@@ -1,0 +1,12 @@
+{
+    "id": 231201,
+    "name": "Solarfokus",
+    "description": "Der Solarfokus wandelt geb\u00fcndelte Sonnenw\u00e4rme in Energie um.",
+    "sort_order": 17,
+    "points": 28,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

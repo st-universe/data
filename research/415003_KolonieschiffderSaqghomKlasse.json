@@ -1,0 +1,12 @@
+{
+    "id": 415003,
+    "name": "Kolonieschiff der Saqghom-Klasse",
+    "description": "Erh\u00f6ht das Kolonielimit zus\u00e4tzlich um einen Mond.",
+    "sort_order": 10,
+    "points": 50,
+    "ship_rump_id": 1503,
+    "database_entry_ids": [],
+    "commodity_id": 5,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 1
+}

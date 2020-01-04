@@ -1,0 +1,12 @@
+{
+    "id": 280102,
+    "name": "Fabrikationshalle",
+    "description": "Dieses Geb\u00e4ude ist essenziell f\u00fcr den Bau und Unterhalt der verschiedenen Modulfabriken.",
+    "sort_order": 42,
+    "points": 66,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

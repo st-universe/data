@@ -1,0 +1,12 @@
+{
+    "id": 434001,
+    "name": "Scout der Nova-Klasse",
+    "description": "Erlaubt den Bau von Forschungsschiffen\/Scouts der Nova-Klasse",
+    "sort_order": 75,
+    "points": 44,
+    "ship_rump_id": 3401,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

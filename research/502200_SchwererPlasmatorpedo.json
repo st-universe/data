@@ -1,0 +1,12 @@
+{
+    "id": 502200,
+    "name": "Schwerer Plasmatorpedo",
+    "description": "Diese Forschung erlaubt die Konstruktion einer superschweren Projektilwaffe auf Plasmabasis.",
+    "sort_order": 116,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

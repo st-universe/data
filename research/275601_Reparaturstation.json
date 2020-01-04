@@ -1,0 +1,12 @@
+{
+    "id": 275601,
+    "name": "Reparaturstation",
+    "description": "Mit diesem Geb\u00e4ude k\u00f6nnen besch\u00e4digte Schiffe repariert werden.",
+    "sort_order": 140,
+    "points": 84,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

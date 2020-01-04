@@ -1,0 +1,12 @@
+{
+    "id": 283202,
+    "name": "Modulfabrik (Hauptsysteme)",
+    "description": "Dieses Geb\u00e4ude erm\u00f6glicht es, Energie- und Computersysteme herzustellen.",
+    "sort_order": 78,
+    "points": 22,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

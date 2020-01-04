@@ -1,0 +1,12 @@
+{
+    "id": 254101,
+    "name": "Aluminiumwerk",
+    "description": "Erlaubt die Fertigung von transparentem Aluminium",
+    "sort_order": 5,
+    "points": 30,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 2,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

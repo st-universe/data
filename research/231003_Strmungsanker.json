@@ -1,0 +1,12 @@
+{
+    "id": 231003,
+    "name": "Str\u00f6mungsanker",
+    "description": "Der Str\u00f6mungsanker erm\u00f6glicht den Unterhalt und Betrieb von Str\u00f6mungsturbinen zur Energiegewinnung.",
+    "sort_order": 18,
+    "points": 28,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 271102,
+    "name": "Aeroponik-Station",
+    "description": "Erm\u00f6glicht Nahrungsproduktion im Orbit",
+    "sort_order": 51,
+    "points": 22,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

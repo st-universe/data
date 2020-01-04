@@ -1,0 +1,12 @@
+{
+    "id": 270101,
+    "name": "Flugfeld",
+    "description": "Erlaubt den Bau und den Start von Shuttles",
+    "sort_order": 9,
+    "points": 50,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 5,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

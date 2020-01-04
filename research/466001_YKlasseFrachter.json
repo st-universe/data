@@ -1,0 +1,12 @@
+{
+    "id": 466001,
+    "name": "Y-Klasse Frachter",
+    "description": "Frachter der Y-Klasse",
+    "sort_order": 141,
+    "points": 50,
+    "ship_rump_id": 901,
+    "database_entry_ids": [],
+    "commodity_id": 5,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

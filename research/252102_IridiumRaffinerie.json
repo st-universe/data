@@ -1,0 +1,12 @@
+{
+    "id": 252102,
+    "name": "Iridium-Raffinerie",
+    "description": "Raffiniert Iridium-Erz zu Iridium",
+    "sort_order": 148,
+    "points": 40,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 4,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

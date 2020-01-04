@@ -1,0 +1,12 @@
+{
+    "id": 300403,
+    "name": "Holo-Generator",
+    "description": "Ein Hologenerator erm\u00f6glicht den Betrieb eines Holodecks.",
+    "sort_order": 56,
+    "points": 66,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

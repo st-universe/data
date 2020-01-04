@@ -1,0 +1,12 @@
+{
+    "id": 431103,
+    "name": "Eskorte der K'Vort'cha-Klasse",
+    "description": "Erlaubt den Bau von Eskortschiffen der K'Vort'cha-Klasse",
+    "sort_order": 70,
+    "points": 66,
+    "ship_rump_id": 3103,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 300203,
+    "name": "Halle der Krieger",
+    "description": "Eine Halle der Krieger erlaubt die Ausbildung von Einwohnern zu Schiffsbesatzungen.",
+    "sort_order": 133,
+    "points": 56,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

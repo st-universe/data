@@ -1,0 +1,12 @@
+{
+    "id": 454001,
+    "name": "Forschungsschiff der Luna-Klasse",
+    "description": "Erlaubt den Bau von Forschungsschiffen der Luna-Klasse",
+    "sort_order": 108,
+    "points": 40,
+    "ship_rump_id": 5491,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

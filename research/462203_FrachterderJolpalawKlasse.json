@@ -1,0 +1,12 @@
+{
+    "id": 462203,
+    "name": "Frachter der Jolpa'law-Klasse",
+    "description": "Erlaubt den Bau von Frachtern der Jolpa'law-Klasse",
+    "sort_order": 72,
+    "points": 44,
+    "ship_rump_id": 6703,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

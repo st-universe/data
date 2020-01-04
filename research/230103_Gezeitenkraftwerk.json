@@ -1,0 +1,12 @@
+{
+    "id": 230103,
+    "name": "Gezeitenkraftwerk",
+    "description": "Erm\u00f6glicht die Energiegewinnung mit Wasserkraft",
+    "sort_order": 3,
+    "points": 15,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 2,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

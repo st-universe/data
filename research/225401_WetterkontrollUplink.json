@@ -1,0 +1,12 @@
+{
+    "id": 225401,
+    "name": "Wetterkontroll-Uplink",
+    "description": "Mit dieser Technik wird ein Siedler in die Lage versetzt, Nahrung produzierende Geb\u00e4ude aufzuwerten.",
+    "sort_order": 50,
+    "points": 22,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

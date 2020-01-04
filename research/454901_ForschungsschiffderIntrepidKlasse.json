@@ -1,0 +1,12 @@
+{
+    "id": 454901,
+    "name": "Forschungsschiff der Intrepid-Klasse",
+    "description": "Erlaubt den Bau von Forschungsschiffen der Intrepid-Klasse",
+    "sort_order": 107,
+    "points": 40,
+    "ship_rump_id": 5401,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

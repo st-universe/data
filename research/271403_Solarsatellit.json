@@ -1,0 +1,12 @@
+{
+    "id": 271403,
+    "name": "Solarsatellit",
+    "description": "Erm\u00f6glicht die Energiegewinnung mit Solarkraft auf Orbitfeldern",
+    "sort_order": 20,
+    "points": 14,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

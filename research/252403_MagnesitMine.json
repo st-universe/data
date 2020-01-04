@@ -1,0 +1,12 @@
+{
+    "id": 252403,
+    "name": "Magnesit-Mine",
+    "description": "Mit diesem Gebaeude kann man Magnesit-Erz erschuerfen. Vorkommen gibt es primaer auf Klasse K und sekundaer auf Klasse H Kolonien",
+    "sort_order": 151,
+    "points": 224,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

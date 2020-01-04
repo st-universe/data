@@ -1,0 +1,12 @@
+{
+    "id": 223302,
+    "name": "Hydroponik-Anlage",
+    "description": "Erm\u00f6glicht die Produktion von Nahrung auf unfruchtbarem Boden",
+    "sort_order": 14,
+    "points": 14,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

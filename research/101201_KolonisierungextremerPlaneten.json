@@ -1,0 +1,12 @@
+{
+    "id": 101201,
+    "name": "Kolonisierung extremer Planeten",
+    "description": "Erh\u00f6ht das Kolonielimit zus\u00e4tzlich um einen Planeten.",
+    "sort_order": 67,
+    "points": 176,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 1,
+    "raise_moonlimit": 0
+}

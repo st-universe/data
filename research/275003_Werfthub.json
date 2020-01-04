@@ -1,0 +1,12 @@
+{
+    "id": 275003,
+    "name": "Werfthub",
+    "description": "Dieses Geb\u00e4ude erlaubt den Bau der verschiedenen Werften.",
+    "sort_order": 31,
+    "points": 28,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

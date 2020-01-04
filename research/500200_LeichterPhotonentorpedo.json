@@ -1,0 +1,12 @@
+{
+    "id": 500200,
+    "name": "Leichter Photonentorpedo",
+    "description": "Eine leichte Projektilwaffe auf Antimateriebasis",
+    "sort_order": 47,
+    "points": 42,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

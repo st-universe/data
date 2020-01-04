@@ -1,0 +1,12 @@
+{
+    "id": 421201,
+    "name": "Fregatte der Saber-Klasse",
+    "description": "Erlaubt den Bau von leichten Kriegsschiffen der Saber-Klasse",
+    "sort_order": 126,
+    "points": 84,
+    "ship_rump_id": 2101,
+    "database_entry_ids": [],
+    "commodity_id": 1711,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

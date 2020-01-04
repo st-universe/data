@@ -1,0 +1,12 @@
+{
+    "id": 903302,
+    "name": "Nitrium-Schaltkreis-Fabrik",
+    "description": "In diesem Geb\u00e4ude werden Nitirium-Schaltkreise hergestellt, welche man f\u00fcr diverse Schiffssysteme braucht",
+    "sort_order": 136,
+    "points": 224,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 461102,
+    "name": "Frachter der T'Mera-Klasse",
+    "description": "Erm\u00f6glicht den Bau von Frachtschiffen der T'Mera-Klasse",
+    "sort_order": 39,
+    "points": 28,
+    "ship_rump_id": 6602,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

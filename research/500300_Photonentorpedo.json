@@ -1,0 +1,12 @@
+{
+    "id": 500300,
+    "name": "Photonentorpedo",
+    "description": "Die Standard Projektilwaffe auf Antimateriebasis",
+    "sort_order": 79,
+    "points": 66,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

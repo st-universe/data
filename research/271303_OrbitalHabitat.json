@@ -1,0 +1,12 @@
+{
+    "id": 271303,
+    "name": "Orbital-Habitat",
+    "description": "Stellt Wohnraum im Orbit bereit",
+    "sort_order": 54,
+    "points": 22,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 101102,
+    "name": "Kolonisierung lebensfeindlicher Planeten",
+    "description": "Erh\u00f6ht das Kolonielimit zus\u00e4tzlich um einen Planeten.",
+    "sort_order": 28,
+    "points": 112,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 1,
+    "raise_moonlimit": 0
+}

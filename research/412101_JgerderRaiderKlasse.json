@@ -1,0 +1,12 @@
+{
+    "id": 412101,
+    "name": "J\u00e4ger der Raider-Klasse",
+    "description": "Erlaubt den Bau von J\u00e4gern der Raider-Klasse",
+    "sort_order": 37,
+    "points": 42,
+    "ship_rump_id": 1101,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

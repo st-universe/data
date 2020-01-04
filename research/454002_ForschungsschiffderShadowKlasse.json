@@ -1,0 +1,12 @@
+{
+    "id": 454002,
+    "name": "Forschungsschiff der Shadow-Klasse",
+    "description": "Erm\u00f6glicht den Bau von Forschungsschiffen der Shadow-Klasse",
+    "sort_order": 107,
+    "points": 40,
+    "ship_rump_id": 5402,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

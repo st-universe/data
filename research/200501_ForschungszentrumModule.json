@@ -1,0 +1,12 @@
+{
+    "id": 200501,
+    "name": "Forschungszentrum (Module)",
+    "description": "In diesem Geb\u00e4ude erhalten die Siedler die hochwertigsten Module f\u00fcr den Schiffbau.",
+    "sort_order": 98,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

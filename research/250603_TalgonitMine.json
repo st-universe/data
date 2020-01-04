@@ -1,0 +1,12 @@
+{
+    "id": 250603,
+    "name": "Talgonit-Mine",
+    "description": "Mit diesem Gebaeude kann man Talgonit-Erz erschuerfen. Vorkommen gibt es primaer auf Klasse D und sekundaer auf Klasse P Kolonien",
+    "sort_order": 153,
+    "points": 44,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

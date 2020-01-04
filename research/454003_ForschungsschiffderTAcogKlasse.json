@@ -1,0 +1,12 @@
+{
+    "id": 454003,
+    "name": "Forschungsschiff der T'Acog-Klasse",
+    "description": "Beschreibung todo",
+    "sort_order": 107,
+    "points": 40,
+    "ship_rump_id": 5403,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

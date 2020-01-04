@@ -1,0 +1,12 @@
+{
+    "id": 201203,
+    "name": "Orbitales Forschungslabor",
+    "description": "Erlaubt den Bau eines Labors im Orbit",
+    "sort_order": 65,
+    "points": 44,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 223201,
+    "name": "Organik-Upgrade",
+    "description": "Hiermit k\u00f6nnen Farmen aufgewertet werden, um mehr Nahrung zu produzieren.",
+    "sort_order": 130,
+    "points": 28,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

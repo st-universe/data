@@ -1,0 +1,12 @@
+{
+    "id": 255103,
+    "name": "Tritanium-Schmelze",
+    "description": "In diesem Geb\u00e4ude wird Tritaniumerz eingeschmolzen, um weiterverarbeitet werden zu k\u00f6nnen.",
+    "sort_order": 88,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

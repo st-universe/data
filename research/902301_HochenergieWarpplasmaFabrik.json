@@ -1,0 +1,12 @@
+{
+    "id": 902301,
+    "name": "Hochenergie-Warpplasma-Fabrik",
+    "description": "In diesem Geb\u00e4ude wird Plasma hergestellt, welches neben Antriebssystemen auch f\u00fcr einige Torpedos gebraucht wird.",
+    "sort_order": 135,
+    "points": 224,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1721,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

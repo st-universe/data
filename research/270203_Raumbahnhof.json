@@ -1,0 +1,12 @@
+{
+    "id": 270203,
+    "name": "Raumbahnhof",
+    "description": "Voraussetzung f\u00fcr s\u00e4mtliche Orbitalkonstruktionen",
+    "sort_order": 26,
+    "points": 42,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

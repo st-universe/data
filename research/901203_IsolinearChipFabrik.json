@@ -1,0 +1,12 @@
+{
+    "id": 901203,
+    "name": "Isolinear-Chip-Fabrik",
+    "description": "In diesem Geb\u00e4ude werden ISO-Chips hergestellt, welche man f\u00fcr fortschrittliche Computersysteme ben\u00f6tigt.",
+    "sort_order": 90,
+    "points": 60,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1703,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

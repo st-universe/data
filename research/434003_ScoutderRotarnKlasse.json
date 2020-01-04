@@ -1,0 +1,12 @@
+{
+    "id": 434003,
+    "name": "Scout der Rotarn-Klasse",
+    "description": "Beschreibung todo",
+    "sort_order": 73,
+    "points": 44,
+    "ship_rump_id": 3403,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

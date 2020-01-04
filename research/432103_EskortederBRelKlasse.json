@@ -1,0 +1,12 @@
+{
+    "id": 432103,
+    "name": "Eskorte der B'Rel-Klasse",
+    "description": "Erlaubt den Bau von Eskortschiffen der B'Rel-Klasse (Bird of Prey)",
+    "sort_order": 71,
+    "points": 66,
+    "ship_rump_id": 3203,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

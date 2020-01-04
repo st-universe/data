@@ -1,0 +1,12 @@
+{
+    "id": 414002,
+    "name": "Runabout der Atarra-Klasse",
+    "description": "Erm\u00f6glicht den Bau von Shuttles der Atarra-Klasse",
+    "sort_order": 38,
+    "points": 28,
+    "ship_rump_id": 1402,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

@@ -1,0 +1,12 @@
+{
+    "id": 1003,
+    "name": "Basisforschung Klingonisches Imperium",
+    "description": "Grundforschung des Klingonischen Reichs um weitere Forschungen zu beginnen",
+    "sort_order": 1,
+    "points": 0,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 1,
+    "raise_moonlimit": 0
+}

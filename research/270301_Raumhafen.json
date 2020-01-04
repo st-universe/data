@@ -1,0 +1,12 @@
+{
+    "id": 270301,
+    "name": "Raumhafen",
+    "description": "Der Raumhafen erlaubt den Bau und Unterhalt fortschrittlicher Orbitalbauwerke.",
+    "sort_order": 64,
+    "points": 44,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

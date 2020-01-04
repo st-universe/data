@@ -1,0 +1,12 @@
+{
+    "id": 541300,
+    "name": "Spezial-Schilde (Klasse 3)",
+    "description": "Beschreibung todo",
+    "sort_order": 143,
+    "points": 44,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

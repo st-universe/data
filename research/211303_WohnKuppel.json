@@ -1,0 +1,12 @@
+{
+    "id": 211303,
+    "name": "Wohn-Kuppel",
+    "description": "Erm\u00f6glicht den Bau von geod\u00e4tischen Habitatkuppeln",
+    "sort_order": 22,
+    "points": 14,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

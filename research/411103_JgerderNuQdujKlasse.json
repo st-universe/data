@@ -1,0 +1,12 @@
+{
+    "id": 411103,
+    "name": "J\u00e4ger der NuQ'duj-Klasse",
+    "description": "Erlaubt den Bau von J\u00e4gern der NuQ'duj-Klasse",
+    "sort_order": 36,
+    "points": 42,
+    "ship_rump_id": 1103,
+    "database_entry_ids": [],
+    "commodity_id": 1701,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

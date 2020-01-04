@@ -1,0 +1,12 @@
+{
+    "id": 300103,
+    "name": "Trainingsanlage",
+    "description": "Eine Trainingsanlage erh\u00f6ht das Crewlimit.",
+    "sort_order": 55,
+    "points": 22,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}

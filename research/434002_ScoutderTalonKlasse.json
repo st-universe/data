@@ -1,0 +1,12 @@
+{
+    "id": 434002,
+    "name": "Scout der Talon-Klasse",
+    "description": "Erm\u00f6glicht den Bau von Kundschaftern der Talon-Klassse",
+    "sort_order": 73,
+    "points": 44,
+    "ship_rump_id": 3402,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0
+}
