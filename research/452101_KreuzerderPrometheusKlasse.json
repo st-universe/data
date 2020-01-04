@@ -12,11 +12,10 @@
     "dependencies": {
         "requires": [
             [
-                459201,
-                451201
+                275501
             ]
         ],
-        "requires_some": [
+        "requires_one_of": [
             []
         ],
         "excludes": [
