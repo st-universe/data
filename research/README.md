@@ -2,11 +2,11 @@ Forschungsdaten
 ===============
 
 Die Dateien enthalten sämtliche Informationen zu Forschungen. Die Struktur ist
-immer gleich und wie folgt aufgebaut.
+immer gleich und wie folgt aufgebaut:
 
-```json
+```metadata json
 {
-    "id": 1001, // Eindeutigen ID der Forschung
+    "id": 1001, // Eindeutige ID der Forschung
     "name": "Basisforschung Föderation", // Name der Forschung
     "description": "Grundforschung der Föderation um weitere Forschungen zu beginnen", // Beschreibung der Forschung
     "sort_order": 1, // Position in der Sortierungsreihenfolge
