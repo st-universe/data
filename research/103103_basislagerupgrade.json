@@ -1,0 +1,25 @@
+{
+    "id": 103102,
+    "name": "Basislager-Upgrade",
+    "description": "IMit dieser Forschung, lässt sich das Basislager in eine Koloniezentrale upgraden",
+    "sort_order": 154,
+    "points": 44,
+    "ship_rump_id": 0,
+    "database_entry_ids": [],
+    "commodity_id": 1702,
+    "raise_planetlimit": 0,
+    "raise_moonlimit": 0,
+    "dependencies": {
+        "requires": [
+            [
+                200202
+            ]
+        ],
+        "requires_one_of": [
+            []
+        ],
+        "excludes": [
+            []
+        ]
+    }
+}
