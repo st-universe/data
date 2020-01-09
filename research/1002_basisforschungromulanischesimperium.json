@@ -10,14 +10,8 @@
     "raise_planetlimit": 1,
     "raise_moonlimit": 0,
     "dependencies": {
-        "requires": [
-            []
-        ],
-        "requires_one_of": [
-            []
-        ],
-        "excludes": [
-            []
-        ]
+        "requires": [],
+        "requires_one_of": [],
+        "excludes": []
     }
 }

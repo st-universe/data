@@ -11,17 +11,11 @@
     "raise_moonlimit": 0,
     "dependencies": {
         "requires": [
-            [
-                230101
-            ]
+            230101
         ],
         "requires_one_of": [
-            [
-                200101
-            ]
+            200101
         ],
-        "excludes": [
-            []
-        ]
+        "excludes": []
     }
 }
